@@ -1,5 +1,5 @@
 
-1. Create data base, user and tables
+1. Create database, user and tables
 mysql -u root -p < db.sql
 
 2. Adjust web-server in root directory
